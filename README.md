@@ -15,7 +15,7 @@ This function can result in an endless loop, at which point it is assumed the re
 Bill Gates
 LOVES
 Melinda Gates
-
+* L=1, O=0, V=0, E=3, S=2
 * 10032
 * 1+0=1, 0+0=0, 0+3=3, 3+2=5
 * 1035
